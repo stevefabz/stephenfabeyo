@@ -31,20 +31,10 @@ I am a **Data Engineer** and **Doctoral Researcher** focused on designing effici
 ---
 
 ## 📚 Education  
-- **Doctor of Science in Data Science (In Progress)** – Middle Georgia State University  
+- **Doctor of Science in Information Technology (In Progress)** – Middle Georgia State University  
 - **Master of Science in Data Science** – Eastern University  
 - **Graduate Certificate in IT Data Analytics** – New Brunswick Community College  
 
----
-
-## 🔧 Skills  
-
-**Languages**: Python, SQL, R  
-**Machine Learning**: TensorFlow, Scikit-learn, PyTorch  
-**Data Engineering**: Airflow, dbt, SSIS, Alteryx, Data factory, Qlik Replicate, Snowflake, Redshift  
-**Databases**: PostgreSQL, MSSQL, MySQL  
-**Cloud Platforms**: AWS, Azure, GCP  
-**Visualization**: Tableau, Power BI  
 
 ---
 
