@@ -1,4 +1,7 @@
+
 # 👋 Hi, I’m Stephen Fabeyo  
+
+---
 
 ## 🔬 About Me  
 I am a **Data Engineer** and **Doctoral Researcher** focused on designing efficient **data pipelines**, building **machine learning solutions**, and applying **advanced analytics** to solve complex, real-world challenges. My research integrates **data-driven techniques** in **finance**, **healthcare**, and **operations**, delivering impactful and scalable solutions.
