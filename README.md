@@ -66,4 +66,4 @@ I’m excited to work on:
 
 Let’s connect to create scalable, data-driven solutions!
 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenfabeyo&show_icons=true&theme=radical)
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevefabz&show_icons=true&theme=radical)
