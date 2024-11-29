@@ -15,25 +15,21 @@ I am a **Data Engineer** and **Doctoral Researcher** focused on designing effici
 
 ## 🌟 Recent Projects  
 
-### 📊 [ML Sentiment Analysis and Spam Detection](https://github.com/stevefabz/ML_Sentiment_Analysis_and-Email_SPAM_Detection)  
-- Built ML models for sentiment analysis and spam classification.
+### 📊 [ML Sentiment Analysis and Spam Detection](https://github.com/stevefabz/ML_Sentiment_Analysis_and-Email_SPAM_Detection): Built ML models for sentiment analysis and spam classification.
 
-### 🌦️ [WeatherConnections API](https://github.com/stevefabz/weatherconnectionsAPI)  
-- Developed a REST API for weather data aggregation.
+### 🧠 [ML Stroke Prediction Model](https://github.com/stevefabz/ML-Project-Stroke-Predictor): Created a machine learning model to predict stroke risks.
 
-### 🛠️ [dbt Core Test](https://github.com/stevefabz/dbtcore_test)  
-- Implemented and tested transformations with dbt Core for data workflows.
+### 🛠️ [dbt Core Test](https://github.com/stevefabz/dbtcore_test): Implemented and tested transformations with dbt Core for data workflows.
 
-### 🏥 [Hospital Database Management System](https://github.com/stevefabz/Hospital-Database-Management-System)  
-- Designed a system for managing hospital data and operations.
+### 🏥 [Hospital Database Management System](https://github.com/stevefabz/Hospital-Database-Management-System): Designed a system for managing hospital data and operations.
 
 
 ---
 
 ## 📚 Education  
-- **Doctor of Science in Information Technology (In Progress)** – Middle Georgia State University  
-- **Master of Science in Data Science** – Eastern University  
-- **Graduate Certificate in IT Data Analytics** – New Brunswick Community College  
+- **Doctor of Science in Information Technology (In Progress)** – Middle Georgia State University, GA, United States  
+- **Master of Science in Data Science** – Eastern University, Pennsylvania, United States  
+- **Graduate Certificate in IT Data Analytics** – New Brunswick Community College (NBCC), New Brunswick, Canada
 
 
 ---
