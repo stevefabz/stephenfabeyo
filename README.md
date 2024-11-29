@@ -82,13 +82,13 @@ Let’s connect to create scalable, data-driven solutions!
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-
----
+-----
 
 ## 📊 GitHub Stats  
 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevefabz&show_icons=true&theme=radical)  
+### Overview
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevefabz&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevefabz&layout=compact&theme=radical)  
-
+### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevefabz&theme=radical)
+
