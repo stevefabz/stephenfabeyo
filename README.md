@@ -66,4 +66,22 @@ I’m excited to work on:
 
 Let’s connect to create scalable, data-driven solutions!
 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevefabz&show_icons=true&theme=radical)
+---
+
+## 📊 GitHub Stats  
+
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevefabz&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevefabz&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevefabz&theme=radical)
+
+---
+
+## 🔧 Skills  
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B3E6?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+How to Add These
