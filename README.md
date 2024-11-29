@@ -27,7 +27,7 @@ I am a **Data Engineer** and **Doctoral Researcher** focused on designing effici
 ---
 
 ## 📚 Education  
-- **Doctor of Science in Information Technology (In Progress)** – Middle Georgia State University, GA, United States  
+- **Doctor of Science in Information Technology (In Progress)** – Middle Georgia State University, Georgia, United States  
 - **Master of Science in Data Science** – Eastern University, Pennsylvania, United States  
 - **Graduate Certificate in IT Data Analytics** – New Brunswick Community College (NBCC), New Brunswick, Canada
 
