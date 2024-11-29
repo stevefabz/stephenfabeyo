@@ -15,20 +15,18 @@ I am a **Data Engineer** and **Doctoral Researcher** focused on designing effici
 
 ## 🌟 Recent Projects  
 
-### 🔄 Loan Performance Analytics Pipeline  
-- **Objective**: Build a scalable system to analyze repayment trends and mitigate loan defaults.  
-- **Solution**: Designed a pipeline with **dbt**, **SQL**, and **Snowflake** to process 10,000+ loan records.  
-- **Impact**: Reduced default rates by 12% and improved financial risk management.
+### 📊 [ML Sentiment Analysis and Spam Detection](https://github.com/stevefabz/ML_Sentiment_Analysis_and-Email_SPAM_Detection)  
+- Built ML models for sentiment analysis and spam classification.
 
-### 🤖 Customer Churn Prediction Model  
-- **Objective**: Predict customer churn for a subscription-based business.  
-- **Solution**: Developed a machine learning model using **Scikit-learn**, **Pandas**, and **Python**.  
-- **Impact**: Improved customer retention by 15% through targeted outreach strategies.
+### 🌦️ [WeatherConnections API](https://github.com/stevefabz/weatherconnectionsAPI)  
+- Developed a REST API for weather data aggregation.
 
-### 📊 Real-Time Data Integration Pipeline  
-- **Objective**: Streamline and process high-velocity JSON payloads for compliance reporting.  
-- **Solution**: Built a robust pipeline using **Airflow**, **Python**, and **Snowflake**, enabling seamless real-time data processing.  
-- **Impact**: Increased data processing efficiency by 30% and improved reporting accuracy.
+### 🛠️ [dbt Core Test](https://github.com/stevefabz/dbtcore_test)  
+- Implemented and tested transformations with dbt Core for data workflows.
+
+### 🏥 [Hospital Database Management System](https://github.com/stevefabz/Hospital-Database-Management-System)  
+- Designed a system for managing hospital data and operations.
+
 
 ---
 
@@ -68,14 +66,6 @@ Let’s connect to create scalable, data-driven solutions!
 
 ---
 
-## 📊 GitHub Stats  
-
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevefabz&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevefabz&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevefabz&theme=radical)
-
----
-
 ## 🔧 Skills  
 
 ### Programming Languages
@@ -106,3 +96,13 @@ Let’s connect to create scalable, data-driven solutions!
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+
+---
+
+## 📊 GitHub Stats  
+
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevefabz&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevefabz&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevefabz&theme=radical)
