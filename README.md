@@ -20,7 +20,7 @@ I am a **Data Engineer** and **Doctoral Researcher** focused on designing effici
 
 #### 📊 [ML Sentiment Analysis and Spam Detection](https://github.com/stevefabz/ML_Sentiment_Analysis_and-Email_SPAM_Detection): Built ML models for sentiment analysis and spam classification.
 
-#### 🧠 [ML Stroke Prediction Model](https://github.com/stevefabz/ML-Project-Stroke-Predictor): Created a machine learning model to predict stroke risks.
+#### 🧠  [Chronic Kidney Disease Predictor](https://github.com/stevefabz/chronic-kidney-disease-prediction): Created a machine learning pipeline to predict chronic kidney disease using scikit-learn and Python.
 
 #### 🛠️ [dbt Core Test](https://github.com/stevefabz/dbtcore_test): Implemented and tested transformations with dbt Core for data workflows.
 
