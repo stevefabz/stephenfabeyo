@@ -18,9 +18,9 @@ I am a **Data Engineer** and **Doctoral Researcher** focused on designing effici
 
 ## 🌟 Recent Projects  
 
-#### 🧠  [Chronic Kidney Disease Predictor](https://github.com/stevefabz/chronic-kidney-disease-prediction): Created a machine learning pipeline to predict chronic kidney disease using scikit-learn and Python.
+#### 🧠  [Chronic Kidney Disease Predictor](https://github.com/stevefabz/chronic-kidney-disease-prediction): Machine learning pipeline to predict chronic kidney disease using scikit-learn and Python.
 
-#### 📊 [ML Sentiment Analysis and Spam Detection](https://github.com/stevefabz/ML_Sentiment_Analysis_and-Email_SPAM_Detection): Built ML models for sentiment analysis and spam classification using R.
+#### 📊 [ML Sentiment Analysis and Spam Detection](https://github.com/stevefabz/ML_Sentiment_Analysis_and-Email_SPAM_Detection): ML model for sentiment analysis and spam classification using R.
 
 
 ---
