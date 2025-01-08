@@ -19,7 +19,7 @@ I am a **Data Engineer** and **Doctoral Researcher** focused on designing effici
 ## 🌟 Recent Projects  
 
 #### 🧠  [Chronic Kidney Disease Predictor](https://github.com/stevefabz/chronic-kidney-disease-prediction): Machine learning pipeline to predict chronic kidney disease using scikit-learn and Python.
-#### 🧠  [Machine Learning and Analytics for Mental Health](https://github.com/stevefabz/MindTech)): This project explores mental health in tech workplaces using machine learning, clustering, and interactive visualizations.
+#### 🧠  [Machine Learning and Analytics for Mental Health](https://github.com/stevefabz/MindTech)): This project explores mental health in tech workplaces using machine learning.
 #### 🧠  [FairLens: AI Model Bias Evaluator](https://github.com/stevefabz/FairLens): FairLens is a Python-based tool designed to help identify biases in datasets for training AI models.
 #### 🧠  [ML Sentiment Analysis and Spam Detection](https://github.com/stevefabz/ML_Sentiment_Analysis_and-Email_SPAM_Detection): ML model for sentiment analysis and spam classification using R.
 
